@@ -1,0 +1,2 @@
+CREATE DATABASE pat_rest_db;
+GO
